@@ -1,6 +1,19 @@
-/* CSS Reset */
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+.bg-l-grey {
+    background-color: #2C3E50;
+}
+
+.b-black {
+    border: 2px dashed black;
+}
+
+.h-100px {
+    height: 100px;
+}
+
+.bg-l-aqua {
+    background-color: #1ABC9C;
+}
+
+.h-500px {
+    height: 500px;
 }
