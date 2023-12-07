@@ -10,10 +10,51 @@
     height: 100px;
 }
 
-.bg-l-aqua {
-    background-color: #1ABC9C;
+.h-200px {
+    height: 200px;
+}
+
+.h-300px {
+    height: 300px;
 }
 
 .h-500px {
     height: 500px;
+}
+
+.h-600px {
+    height: 600px;
+}
+
+.w-400px {
+    width: 400px;
+}
+
+
+.bg-l-aqua {
+    background-color: #1ABC9C;
+}
+
+.bg-granada {
+    background-color: #BA4B63;
+}
+
+.bg-skye-blue {
+    background-color: #1EA4B6;
+}
+
+.bg-black {
+    background-color: #140F0F;
+}
+
+.bg-light-blue {
+    background-color: #1C83C1;
+}
+
+.bg-blue {
+    background-color: #0E38B5;
+}
+
+.bg-light-brown {
+    background-color: #CCB2A3;
 }
