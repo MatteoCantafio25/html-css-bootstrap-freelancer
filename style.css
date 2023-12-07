@@ -10,6 +10,10 @@
     height: 100px;
 }
 
+.h-50px {
+    height: 50px;
+}
+
 .h-200px {
     height: 200px;
 }
@@ -28,6 +32,14 @@
 
 .w-400px {
     width: 400px;
+}
+
+.w-250px {
+    width: 250px;
+}
+
+.w-200px {
+    width: 200px;
 }
 
 
@@ -57,4 +69,8 @@
 
 .bg-light-brown {
     background-color: #CCB2A3;
+}
+
+.bg-3A546D {
+    background-color: #3A546D;
 }
