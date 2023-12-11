@@ -6,6 +6,10 @@
     border: 2px dashed black;
 }
 
+.b-none {
+    border: none;
+}
+
 .h-100px {
     height: 100px;
 }
@@ -73,11 +77,15 @@
     color: #1ABC9C;
 }
 
+.cl-2c3e50 {
+    color: #2c3e50;
+}
+
 #about {
     background-color: #1ABC9C;
 }
 
-.bg-l-aqua {
+.bg-aqua {
     background-color: #1ABC9C;
 }
 
@@ -130,6 +138,26 @@
     width: 40px;
     height: 40px;
     text-align: center;
+}
+
+/* Form */
+
+#contacts {
+    min-height: 500px;
+}
+
+#contacts .form-control {
+    padding-left: 0;
+    border-radius: 0;
+    border-width: 0 0 1px 0;
+}
+
+#contacts .form-control::placeholder {
+    color: #2C3E50;
+}
+
+#contacts .form-control:focus {
+    box-shadow: none
 }
 
 /* Footer */
