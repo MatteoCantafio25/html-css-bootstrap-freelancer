@@ -18,6 +18,10 @@
     height: 60px;
 }
 
+.h-80px {
+    height: 80px;
+}
+
 .h-200px {
     height: 200px;
 }
@@ -38,13 +42,23 @@
     width: 300px;
 }
 
-.star-line {
+.star-line-blue {
     border: 2px solid #2c3e50;
+    width: 60px;
+}
+
+.star-line-white {
+    border: 2px solid white;
     width: 60px;
 }
 
 .stella {
     font-size: 1.5rem;
+}
+
+.avatar {
+    width: 300px;
+    height: 300px;
 }
 
 .cl-dark-blue {
